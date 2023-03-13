@@ -8,4 +8,8 @@ https://www.kaggle.com/datasets/misrakahmed/vegetable-image-dataset?resource=dow
 
 webcam_recognition.py is for running the model with a webcam and opencv it look like this:
 
-(/misc/potato.png)
+[potato](/misc/potato.png)
+
+it doesnt work most of the time
+
+[not_broccoli](/misc/not_broccoli.png)
